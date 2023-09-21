@@ -1,0 +1,36 @@
+{
+    "stable": {
+        "nginx-phpfpm": {
+            "app_readme": "<h1>Nginx with php8.2-fpm</h1>\n<p>Nginx is a web server.</p>",
+            "categories": [
+                "internet"
+            ],
+            "description": "Nginx w/ PHP8.2-fpm",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://github.com/Rezer/TrueNAS-Charts",
+            "location": "/__w/charts/charts/stable/nginx-phpfpm",
+            "latest_version": "0.1.1",
+            "latest_app_version": "1.0.0.0",
+            "latest_human_version": "1.0.0.0_0.1.1",
+            "last_update": "2023-09-20 07:28:20",
+            "name": "nginx-phpfpm",
+            "recommended": false,
+            "title": "Nginx w/ PHP8.2-fpm",
+            "maintainers": [
+                {
+                    "name": "Rezer",
+                    "url": "https://github.com/Rezer/TrueNAS-Charts",
+                    "email": "Rezurok@gmail.com"
+                }
+            ],
+            "tags": [
+                "internet"
+            ],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/Rezer/TrueNAS-Charts"
+            ],
+            "icon_url": "https://raw.githubusercontent.com/Rezer/TrueNAS-Charts/master/stable/nginx-phpfpm/0.1.1/icon.png"
+        }
+}
