@@ -90,10 +90,10 @@ phpfpm:
     #     maxSurge: 3
   image:
     registry:
-    repository: php
+    repository: rezer/php82-fpm-gd-intl
     pullPolicy: IfNotPresent
     # Overrides the image tag whose default is the chart appVersion.
-    tag: ""
+    tag: "latest"
 
   # this should match the workdir of the image
   # only used when `persistence.enabled = true`

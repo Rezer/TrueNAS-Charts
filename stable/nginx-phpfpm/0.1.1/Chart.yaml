@@ -3,8 +3,8 @@ name: nginx-phpfpm
 description: A chart for an nginx pod with multiple phpfpm pods
 type: application
 version: 0.1.1
-appVersion: "8-fpm-alpine"
-home: https://github.com/SickHub
+appVersion: "1.0.0.0"
+home: https://github.com/Rezer/TrueNAS-Charts
 icon: https://raw.githubusercontent.com/SickHub/charts/master/sickhub/nginx-phpfpm/icon.png
 keywords:
   - php

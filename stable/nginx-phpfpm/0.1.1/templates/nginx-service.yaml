@@ -11,6 +11,7 @@ spec:
       targetPort: http
       protocol: TCP
       name: http
+      nodePort: {{ .Values.nginx.service.port }}
   selector:
     {{- include "nginx-phpfpm.selectorLabels" . | nindent 4 }}
     app.kubernetes.io/component: nginx
