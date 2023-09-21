@@ -3,7 +3,7 @@
         "nginx-phpfpm": {
             "app_readme": "<h1>Nginx with php8.2-fpm</h1>\n<p>Nginx is a web server.</p>",
             "categories": [
-                "internet"
+                "nginx", "php", "php-fpm"
             ],
             "description": "Nginx w/ PHP8.2-fpm",
             "healthy": true,

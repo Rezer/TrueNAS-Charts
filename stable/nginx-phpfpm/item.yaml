@@ -3,8 +3,7 @@ categories:
   - hosting
   - web-server
   - website
-screenshots:
-  - https://upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif
+screenshots: {}
 tags:
   - nginx
   - php
