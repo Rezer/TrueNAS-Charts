@@ -1,0 +1,3 @@
+  groups:
+  - name: Nginx Configuration
+    description: Configure Nginx
