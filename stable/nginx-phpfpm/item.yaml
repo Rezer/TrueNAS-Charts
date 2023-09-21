@@ -1,0 +1,10 @@
+icon_url: https://raw.githubusercontent.com/Rezer/TrueNAS-Charts/master/stable/nginx-phpfpm/0.1.1/icon.png
+categories:
+  - hosting
+  - web-server
+  - website
+screenshots:
+tags:
+  - nginx
+  - php
+  - php-fpm
