@@ -1,0 +1,8 @@
+runAsContext:
+  - userName: nginx
+    groupName: nginx
+    gid: 568
+    uid: 568
+    description: Nginx runs as a non-root user.
+capabilities: []
+hostMounts: []
